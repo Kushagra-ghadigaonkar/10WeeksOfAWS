@@ -3,6 +3,9 @@
 ## Name
 Kushagra
 
+## LinkedIn Post
+[LinkedIn Link](https://www.linkedin.com/posts/kushagra-ghadi_10weeksofaws-10weeksofaws-cloudadhar-ugcPost-7483580646997614592-ZaQ7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdd1JEBGLKm2xnLGzZYAectlvG9YGy5c3A)
+
 ## Topics Practiced
 1. Aws Organisation
 2. Iam identity center
