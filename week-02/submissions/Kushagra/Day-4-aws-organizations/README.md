@@ -49,7 +49,10 @@ Kushagra
 - Organisation Architecture
     ![image](./diagrams/aws-organizations-architecture.png)
 
+- Aws Org Structure
+
 - S3 Before-scp
+    ![image](./screenshots/organization-tree-masked.png)
 
     ![image](./screenshots/s3-before-scp(S3-Creation).png)
 
