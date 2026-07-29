@@ -30,4 +30,17 @@ credentials
 # Local-only working context (not for publishing)
 CLAUDE.md
 
+<<<<<<< HEAD
 
+=======
+# Weekly release gate — publish one week at a time.
+# To publish a week, delete its line below, then commit that week + this file.
+week-02/
+week-03/
+week-05/
+week-06/
+week-07/
+week-08/
+week-09/
+week-10/
+>>>>>>> 9627b05f21ed951b2914813d5992699bc70fd69e
